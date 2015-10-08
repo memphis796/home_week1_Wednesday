@@ -1,0 +1,149 @@
+
+.tops1 {
+  text-align: center;
+  color: white;
+  padding-top: 160px;
+  font-family: arial;
+  padding-right: 45px;
+  padding-left: 50px;
+}
+#top {
+  width: 458px;
+  height: 47px;
+  background-color: #118BC0;
+}
+#top2 {
+  width: 458px;
+  height: 1105px;
+  font-size: 32px;
+  background-color: #344051;
+}
+#bottom {
+  color: white;
+  font-size: 16px;
+  padding-top: 30px;
+}
+#bottom2 {
+  width: 200px;
+  height: 200px;
+}
+#top3 {
+  width: 458px;
+  height: 187px;
+  background-color: #E8F0F5;
+}
+#top4 {
+  width: 458px;
+  height: 1744px;
+  background-color: #D1D3D7;
+
+}
+#top5 {
+  width: 458px;
+  height: 169px;
+  background-color: #E8F0F5;
+}
+#top6 {
+  width: 458px;
+  height: 129px;
+  background-color: #000000;
+  padding-top: 5px;
+}
+li {
+  color: white;
+  font-size: 11px;
+  text-align: center;
+  font-family: arial;
+  display: inline-block;
+  margin-left: 15px;
+}
+.tops4 {
+  text-align: center;
+  margin-right: 52px;
+
+}
+.tops5 {
+  text-align: center;
+  margin-right: 55px;
+}
+.bottoms {
+  background-color: #118BC0;
+  height:50px;
+  width: 212px;
+  margin: 32px 0 0 60px;
+  border: 10px solid #212934
+}
+#tops6 {
+  height: 24px;
+  width: 106px;
+  background-color: white;
+  padding-right: 18px;
+  margin-left: 132px;
+  margin-top: 23px;
+}
+.bottoms2 {
+height: 51px;
+width: 207px;
+background-color: #1E8CBE;
+padding-right: 10px;
+margin-left: 120px;
+padding-top: 98px;
+}
+.2top {
+  color: #FFFFFF;
+  height: 242px;
+  width: 439px;
+}
+.2top1{
+  color: #FFFFFF;
+  height: 242px;
+  width: 439px;
+}
+.2top2 {
+  color: #FFFFFF;
+  height: 242px;
+  width: 439px;
+}
+.2top3 {
+  color: #FFFFFF;
+  height: 242px;
+  width: 439px;
+}
+.2top4 {
+  color: #FFFFFF;
+  height: 242px;
+  width: 439px;
+}
+.2top5 {
+  color: #FFFFFF;
+  height: 242px;
+  width: 439px;
+}
+ .2top6 {
+  color: #red;
+  height: 242px;
+  width: 439px;
+}
+.top7 {
+background-col:  white;
+  height:  22px;
+  width: 50px;
+  margin-top: 211px;
+}
+.top8 {
+  background-color: white;
+  height: 820px;
+  width:302px;
+}
+.top9 {
+  background-col: white;
+  height: 917px;
+  width: 302px;
+}
+.top10 {
+  background-color: white;
+  height: 1014px;
+  width:302px;
+  margin-bottom: 301px;
+
+}
